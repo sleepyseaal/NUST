@@ -3,12 +3,12 @@ import type { Metadata, Viewport } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Dr. Nada Yusif — Dental Motion",
+  title: "NU Studio — Dr. Nada Yusif",
   description:
     "Clinical precision, visual poetry. Motion graphics for modern dentistry.",
   generator: "v0.app",
   icons: {
-    icon: [{ url: "/my-icon.jpg", type: "image/jpeg" }],
+    icon: [{ url: "/nu-studio-logo-cropped.png", type: "image/png" }],
   },
 };
 
